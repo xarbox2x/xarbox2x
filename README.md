@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hola, soy Carlos 👋
 
-<!--
-**xarbox2x/xarbox2x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador web junior con enfoque en JavaScript y Node.js.  
+Experiencia en desarrollo de páginas web, maquetación con HTML y CSS y creación de funcionalidades dinámicas.
 
-Here are some ideas to get you started:
+🔧 Tecnologías:
+- JavaScript
+- HTML5
+- CSS3
+- Node.js
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Actualmente:
+- Desarrollando proyectos web
+- Construyendo mi portafolio como programador
+- Aprendiendo y mejorando en desarrollo backend
