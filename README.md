@@ -9,6 +9,7 @@ Experiencia en desarrollo de páginas web, maquetación con HTML y CSS y creaci�
 - CSS3
 - Node.js
 - SQL
+- Express
 
 🚀 Actualmente:
 - Desarrollando proyectos web
