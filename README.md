@@ -10,7 +10,7 @@ Desarrollador Backend enfocado en soluciones eficientes y escalables con Node.js
 
 ### 🚀 Proyectos Destacados:
 * **API REST Control de Usuarios:** CRUD completo y seguro implementando Express, MySQL y control estricto de variables de entorno para producción.
-* *(Próximamente - 27 de Junio)* **Real-Time Chat & Rooms Service:** Microservicio en tiempo real utilizando WebSockets (Socket.io) para comunicación síncrona persistente entre clientes.
+* *(Próximamente - 29 de Junio)* **Real-Time Chat & Rooms Service:** Microservicio en tiempo real utilizando WebSockets (Socket.io) para comunicación síncrona persistente entre clientes.
 
 ### 🎯 Actualmente:
 * Desarrollando infraestructura backend y consumiendo APIs RESTful independientes.
